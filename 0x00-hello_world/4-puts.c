@@ -1,7 +1,7 @@
 # include <stdio.h>
 /**
- * Description: mai - Prints out a string to stdout
- * Return: 0 if success
+ * Description: main - entry point
+ * Return: 0 after printing the function
  */
 int main(void)
 {
